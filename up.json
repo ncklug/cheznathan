@@ -1,0 +1,12 @@
+{
+  "name": "cheznathan",
+  "profile": "ncklug",
+  "stages": {
+    "production": {
+      "domain": "cheznathan.nckl.ug"
+    },
+    "staging": {
+      "domain": "stagecheznathan.nckl.ug"
+    }
+  }
+}
